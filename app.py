@@ -230,7 +230,8 @@ def page(title, body):
       <a href="/names">Names</a> |
       <a href="/view-language">Language Summary</a> |
       <a href="/edit-language">Edit Language</a> |
-      <a href="/create-words">Generate Words</a> 
+      <a href="/create-words">Generate Words</a> |
+      <a href="/upload-font">Upload Font</a>
     </p>
     {body}
     </body>
@@ -295,6 +296,7 @@ def main_page():
       <li><a href="/view-language">Language Summary</a></li>
       <li><a href="/edit-language">Create/Update Language</a></li>
       <li><a href="/create-words">Generate Words</a></li>
+      <li><a href="/upload-font">Upload Font</a></li>
     </ul>
     """)
 
