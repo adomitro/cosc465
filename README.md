@@ -1,6 +1,6 @@
 Audrey Domitrovic
 
-Audrey's Conlang Dictionary is a browser-based tool that helps you generate, define, and keep track of words in made up languages. 
+Audrey's Conlang Dictionary is a browser-based tool that helps you generate, define, and keep track of words in made up languages. This application is intended for worldbuilders, linguists, and anyone else who wants to make their own Klingon. 
 
 It is made as a class project. While it is sufficient for this class, it is not intended as a final product, and likely won't be updated. Regardless, you are welcome to use or remix it if you find it helpful. 
 
@@ -30,6 +30,8 @@ Required Application Functionality Locations:
 6. Additional Meaningful Operation: these are scattered all over the place. Language Summary (496) does some fun stuff with the filter interface. 
 
 Notes: This got long due to all the html and sql, so I have added the line numbers for some examples. There are other examples throughout to create the entire application. 
+
+It is not necessary to run queries.sql in order to achieve full functionality of the final program, but it is included as a deliverable regardless and demonstrates some of the queries that the application handles. 
 
 There is one issue where the generate words function times out in some languages. It will display an error about this. This is related to the makeRandomWords implementation, but does not affect any of the database functionality. To reliably generate words, use langB, langD, or langE in the example data. 
 If using your own data, avoid activating the max vowel or max cluster filters.  
