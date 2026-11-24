@@ -11,8 +11,8 @@ Audrey Domitrovic
     > .read createschema.sql
     > .read insert_data.sql
 6. Start the application: 
-    python3 app.py
-    visit http://localhost:3000 in your browser
+    > python3 app.py
+    > visit http://localhost:3000 in your browser
 
 Required Application Functionality Locations:
 1. Search or Browse Data: Languages page (376), Names page (461)
