@@ -2,7 +2,7 @@ Audrey Domitrovic
 
 Audrey's Conlang Dictionary is a browser-based tool that helps you generate, define, and keep track of words in made up languages. 
 
-It is made as a class project. While it is sufficient for this class, it is not intended as a fully functional product, and likely won't be updated. Regardless, you are welcome to use or remix it if you find it helpful. 
+It is made as a class project. While it is sufficient for this class, it is not intended as a final product, and likely won't be updated. Regardless, you are welcome to use or remix it if you find it helpful. 
 
 1. Programming language: Python3 with flask. 
     Uses inline HTML and SQLite3
