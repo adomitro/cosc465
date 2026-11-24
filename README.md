@@ -7,12 +7,12 @@ Audrey Domitrovic
 4. Installation commands: installation matches our in class lectures about flask
 5. (OPTIONAL) The application will automatically read createschema.sql to create the database. This will result in an empty database you can add data to yourself. 
     To instead initialize with example data, manually run the following before starting the application:
-    > sqlite3 data.db
-    > .read createschema.sql
-    > .read insert_data.sql
+    a. sqlite3 data.db
+    b. .read createschema.sql
+    c. .read insert_data.sql
 6. Start the application: 
-    > python3 app.py
-    > visit http://localhost:3000 in your browser
+    a. python3 app.py
+    b. visit http://localhost:3000 in your browser
 
 Required Application Functionality Locations:
 1. Search or Browse Data: Languages page (376), Names page (461)
